@@ -2,7 +2,12 @@ pankaj sir academy
 pankaj sir academy 2
 
 
+<<<<<<< Updated upstream
 class B {
+=======
+class A {
+
+>>>>>>> Stashed changes
 
 
 }
